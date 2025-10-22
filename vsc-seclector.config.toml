@@ -1,0 +1,15 @@
+[[projects]]
+Name = "Test"
+Path = "~/_git/vsc-workspace-selector/test.code-workspace"
+
+[[projects]]
+Name = "Test2"
+Path = "../test.code-workspace"
+
+[[projects]]
+Name = "test3"
+Path = "/path"
+
+[[projects]]
+Name = "test3"
+Path = "path"
